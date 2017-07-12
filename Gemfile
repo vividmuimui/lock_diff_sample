@@ -7,24 +7,22 @@ end
 
 # tag関連
 ## tagなし
-gem 'autoprefixer-rails', '6.3.6'
+gem 'autoprefixer-rails'
 ## vなし
-gem 'rack', '2.0.2'
+gem 'rack', '2.0.1'
 ## name-version
-gem 'addressable', '2.4.0'
+gem 'addressable'
 ## many tags
 gem 'newrelic_rpm', '4.1.0.333'
 ## 4桁
 gem 'parser', '2.3.1.2'
-## complex
-gem 'domain_name', '0.5.20160216'
 
 # rubygems以外
 ## github
-gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
+gem 'awesome_print', github: 'awesome-print/awesome_print'
 ## local
-gem 'dummy_gem', "0.1.0", path: 'dummy_gem'
-gem 'dummy_gem2', "0.1.0", path: 'dummy_gem2'
+gem 'dummy_gem', path: 'dummy_gem'
+gem 'dummy_gem2', path: 'dummy_gem2'
 
 # changelog
 ## no changelog
@@ -36,7 +34,7 @@ gem 'mail', '2.6.4'
 ## History.rdoc
 gem 'rake', '11.1.2'
 ## news.md
-gem 'momentjs-rails', '2.11.0'
+gem 'momentjs-rails', '2.10.6'
 ## CHANGES
 gem 'builder', '3.2.2'
 ## releases
