@@ -9,9 +9,9 @@ end
 ## tagなし
 gem 'autoprefixer-rails', '6.3.6'
 ## vなし
-gem 'rack', '2.0.2'
+gem 'rack', '2.0.1'
 ## name-version
-gem 'addressable', '2.4.0'
+gem 'addressable'
 ## many tags
 gem 'newrelic_rpm', '4.1.0.333'
 ## 4桁
