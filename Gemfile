@@ -15,7 +15,7 @@ gem 'addressable', '2.4.0'
 ## many tags
 gem 'newrelic_rpm', '4.1.0.333'
 ## 4桁
-gem 'parser', '2.3.1.2'
+gem 'parser', '2.4.0.0'
 ## complex
 gem 'domain_name', '0.5.20160216'
 
