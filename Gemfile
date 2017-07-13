@@ -7,7 +7,7 @@ end
 
 # tag関連
 ## tagなし
-gem 'autoprefixer-rails', '6.3.6'
+gem 'autoprefixer-rails', '7.1.2'
 ## vなし
 gem 'rack', '2.0.2'
 ## name-version
