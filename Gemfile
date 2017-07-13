@@ -9,7 +9,7 @@ end
 ## tagなし
 gem 'autoprefixer-rails', '6.3.6'
 ## vなし
-gem 'rack', '2.0.2'
+gem 'rack', '2.0.3'
 ## name-version
 gem 'addressable', '2.4.0'
 ## many tags
