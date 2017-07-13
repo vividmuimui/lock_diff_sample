@@ -7,7 +7,7 @@ end
 
 # tag関連
 ## tagなし
-gem 'autoprefixer-rails', '6.3.6'
+gem 'autoprefixer-rails'
 ## vなし
 gem 'rack', '2.0.1'
 ## name-version
@@ -19,7 +19,7 @@ gem 'parser', '2.3.1.2'
 
 # rubygems以外
 ## github
-gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
+gem 'awesome_print', github: 'awesome-print/awesome_print'
 ## local
 # TODO: 書く
 
@@ -33,7 +33,7 @@ gem 'mail', '2.6.4'
 ## History.rdoc
 gem 'rake', '11.1.2'
 ## news.md
-gem 'momentjs-rails', '2.11.0'
+gem 'momentjs-rails', '2.10.6'
 ## CHANGES
 gem 'builder', '3.2.2'
 ## releases
