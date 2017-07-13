@@ -13,7 +13,7 @@ gem 'rack', '2.0.2'
 ## name-version
 gem 'addressable', '2.4.0'
 ## many tags
-gem 'newrelic_rpm', '4.1.0.333'
+gem 'newrelic_rpm', '4.2.0.334'
 ## 4桁
 gem 'parser', '2.3.1.2'
 ## complex
