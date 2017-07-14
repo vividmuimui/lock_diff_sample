@@ -17,7 +17,7 @@ gem 'newrelic_rpm', '4.1.0.333'
 ## 4桁
 gem 'parser', '2.3.1.2'
 ## complex
-gem 'domain_name', '0.5.20160216'
+gem 'domain_name', '0.5.20170404'
 
 # rubygems以外
 ## github
