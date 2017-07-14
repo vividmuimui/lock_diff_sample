@@ -62,7 +62,7 @@ GEM
     i18n (0.8.6)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    mail (2.6.4)
+    mail (2.6.6)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
     mime-types (3.1)
@@ -136,7 +136,7 @@ DEPENDENCIES
   awesome_print!
   builder (= 3.2.2)
   domain_name (= 0.5.20160216)
-  mail (= 2.6.4)
+  mail (= 2.6.6)
   momentjs-rails (= 2.11.0)
   newrelic_rpm (= 4.1.0.333)
   parser (= 2.3.1.2)

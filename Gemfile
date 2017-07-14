@@ -31,7 +31,7 @@ gem 'rb-inotify', '0.9.8'
 ## CHANGELOG.md
 gem 'simplecov-html', '0.10.0'
 ## changelog.rdoc
-gem 'mail', '2.6.4'
+gem 'mail', '2.6.6'
 ## History.rdoc
 gem 'rake', '11.1.2'
 ## news.md
