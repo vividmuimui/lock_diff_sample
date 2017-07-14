@@ -29,7 +29,7 @@ gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
 ## no changelog
 gem 'rb-inotify', '0.9.8'
 ## CHANGELOG.md
-gem 'simplecov-html', '0.10.0'
+gem 'simplecov-html', '0.10.1'
 ## changelog.rdoc
 gem 'mail', '2.6.4'
 ## History.rdoc
