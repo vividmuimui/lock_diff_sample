@@ -33,7 +33,7 @@ gem 'simplecov-html', '0.10.0'
 ## changelog.rdoc
 gem 'mail', '2.6.4'
 ## History.rdoc
-gem 'rake', '11.1.2'
+gem 'rake', '12.0.0'
 ## news.md
 gem 'momentjs-rails', '2.11.0'
 ## CHANGES
