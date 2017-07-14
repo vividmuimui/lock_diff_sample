@@ -106,8 +106,8 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rake (11.1.2)
     rb-fsevent (0.9.7)
-    rb-inotify (0.9.8)
-      ffi (>= 0.5.0)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
     simplecov-html (0.10.0)
     sprockets (3.7.1)
       concurrent-ruby (~> 1.0)
@@ -144,7 +144,7 @@ DEPENDENCIES
   rails (= 5.1.1)
   rake (= 11.1.2)
   rb-fsevent (= 0.9.7)
-  rb-inotify (= 0.9.8)
+  rb-inotify (= 0.9.10)
   simplecov-html (= 0.10.0)
 
 BUNDLED WITH
