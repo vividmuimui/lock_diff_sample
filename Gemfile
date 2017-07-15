@@ -24,6 +24,7 @@ gem 'domain_name', '0.5.20160216'
 gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
 ## local
 gem 'dummy_gem', "0.1.0", path: 'dummy_gem'
+gem 'dummy_gem2', "0.1.0", path: 'dummy_gem2'
 
 # changelog
 ## no changelog
