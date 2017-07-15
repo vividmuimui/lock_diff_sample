@@ -23,7 +23,7 @@ gem 'domain_name', '0.5.20160216'
 ## github
 gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
 ## local
-# TODO: 書く
+gem 'dummy_gem', "0.1.0", path: 'dummy_gem'
 
 # changelog
 ## no changelog

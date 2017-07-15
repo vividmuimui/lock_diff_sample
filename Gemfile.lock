@@ -5,6 +5,11 @@ GIT
   specs:
     awesome_print (1.7.0)
 
+PATH
+  remote: dummy_gem
+  specs:
+    dummy_gem (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -136,6 +141,7 @@ DEPENDENCIES
   awesome_print!
   builder (= 3.2.2)
   domain_name (= 0.5.20160216)
+  dummy_gem (= 0.1.0)!
   mail (= 2.6.4)
   momentjs-rails (= 2.11.0)
   newrelic_rpm (= 4.1.0.333)
