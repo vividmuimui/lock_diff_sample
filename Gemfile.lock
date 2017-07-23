@@ -18,7 +18,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    CFPropertyList (2.3.4)
+    CFPropertyList (2.2.8)
     actioncable (5.1.1)
       actionpack (= 5.1.1)
       nio4r (~> 2.0)
@@ -59,8 +59,9 @@ GEM
     addressable (2.4.0)
     arel (8.0.0)
     ast (2.3.0)
-    autoprefixer-rails (6.3.6)
+    autoprefixer-rails (7.1.2.3)
       execjs
+    brakeman (3.6.2)
     builder (3.2.2)
     concurrent-ruby (1.0.5)
     domain_name (0.5.20160216)
@@ -89,6 +90,7 @@ GEM
       mini_portile2 (~> 2.2.0)
     parser (2.3.1.2)
       ast (~> 2.2)
+    pg (0.21.0)
     rack (2.0.2)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -142,10 +144,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  CFPropertyList (= 2.3.4)
+  CFPropertyList (= 2.2.8)
   addressable (= 2.4.0)
-  autoprefixer-rails (= 6.3.6)
+  autoprefixer-rails
   awesome_print!
+  brakeman (= 3.6.2)
   builder (= 3.2.2)
   domain_name (= 0.5.20160216)
   dummy_gem (= 0.1.0)!
@@ -154,6 +157,7 @@ DEPENDENCIES
   momentjs-rails (= 2.11.0)
   newrelic_rpm (= 4.1.0.333)
   parser (= 2.3.1.2)
+  pg (= 0.21.0)
   rack (= 2.0.2)
   rails (= 5.1.1)
   rake (= 11.1.2)
