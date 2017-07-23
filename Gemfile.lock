@@ -18,6 +18,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    CFPropertyList (2.3.4)
     actioncable (5.1.1)
       actionpack (= 5.1.1)
       nio4r (~> 2.0)
@@ -141,6 +142,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  CFPropertyList (= 2.3.4)
   addressable (= 2.4.0)
   autoprefixer-rails (= 6.3.6)
   awesome_print!
@@ -160,4 +162,4 @@ DEPENDENCIES
   simplecov-html (= 0.10.0)
 
 BUNDLED WITH
-   1.15.1
+   1.15.2

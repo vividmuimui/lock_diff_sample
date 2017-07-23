@@ -12,6 +12,8 @@ gem 'autoprefixer-rails', '6.3.6'
 gem 'rack', '2.0.2'
 ## name-version
 gem 'addressable', '2.4.0'
+## name.downcase-version
+gem 'CFPropertyList', '2.3.4'
 ## many tags
 gem 'newrelic_rpm', '4.1.0.333'
 ## 4桁
