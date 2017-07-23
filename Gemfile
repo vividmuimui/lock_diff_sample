@@ -7,48 +7,45 @@ end
 
 # tag関連
 ## tagなし
-gem 'builder', '3.2.2'
+gem 'builder'
 ## vなし
-gem 'rack', '2.0.2'
+gem 'rack', '2.0.1'
 ## name-version
-gem 'addressable', '2.4.0'
+gem 'addressable'
 ## name.downcase-version
-gem 'CFPropertyList', '2.2.8'
+gem 'CFPropertyList'
 ## many tags
-gem 'newrelic_rpm', '4.1.0.333'
+gem 'newrelic_rpm'
 ## 4桁
-gem 'parser', '2.3.1.2'
+gem 'parser'
 ## complex
-gem 'domain_name', '0.5.20160216'
+gem 'domain_name'
 
 # rubygems以外
 ## github
-gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'v1.7.0'
+gem 'awesome_print', github: 'awesome-print/awesome_print'
 ## local
-gem 'dummy_gem', "0.1.0", path: 'dummy_gem'
-gem 'dummy_gem2', "0.1.0", path: 'dummy_gem2'
+gem 'dummy_gem', path: 'dummy_gem'
+gem 'dummy_gem2', path: 'dummy_gem2'
 
 # changelog
 ## no changelog
-gem 'rb-inotify', '0.9.8'
+gem 'rb-inotify'
 ## CHANGELOG.md
-gem 'simplecov-html', '0.10.0'
+gem 'simplecov-html'
 ## changelog.rdoc
-gem 'mail', '2.6.4'
+gem 'mail'
 ## History.rdoc
-gem 'rake', '11.1.2'
+gem 'rake'
 ## news.md
-gem 'momentjs-rails', '2.11.0'
+gem 'momentjs-rails', '2.10.6'
 ## CHANGES
-gem 'brakeman', '3.6.2'
+gem 'brakeman'
 ## releases
-gem 'rb-fsevent', '0.9.7'
+gem 'rb-fsevent'
 
 # rails
-gem 'rails', '5.1.1'
+gem 'rails'
 
 # bitbucket
-gem 'pg', '0.21.0'
-
-# deleted gem
-gem 'autoprefixer-rails'
+gem 'pg', '0.20.0'
