@@ -159,5 +159,3 @@ DEPENDENCIES
   rb-inotify (= 0.9.8)
   simplecov-html (= 0.10.0)
 
-BUNDLED WITH
-   1.15.1
